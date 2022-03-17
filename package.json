@@ -1,0 +1,11 @@
+{
+  "name": "giftbooster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "author": "NF01, Kylian Bourcoud, MichaelRuckstuhl ",
+  "license": "MIT"
+}
